@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/argoproj/pkg/rand"
+	"github.com/Eson-Jia/pkg/rand"
 )
 
 // TestIsDirectory tests if a path is a directory. Errors if directory doesn't exist

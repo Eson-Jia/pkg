@@ -13,7 +13,7 @@ import (
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/argoproj/pkg/rand"
+	"github.com/Eson-Jia/pkg/rand"
 )
 
 var (

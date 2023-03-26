@@ -7,7 +7,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"k8s.io/klog/v2"
 
-	"github.com/argoproj/pkg/errors"
+	"github.com/Eson-Jia/pkg/errors"
 )
 
 // SetLogLevel parses and sets a logrus log level
