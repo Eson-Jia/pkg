@@ -4,7 +4,6 @@ go 1.14
 
 require (
 	github.com/Eson-Jia/minio-go/v7 v7.0.54
-	github.com/argoproj/pkg v0.13.6
 	github.com/aws/aws-sdk-go v1.44.228
 	github.com/dustin/go-humanize v1.0.1
 	github.com/felixge/httpsnoop v1.0.3
