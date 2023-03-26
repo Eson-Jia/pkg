@@ -1,22 +1,21 @@
-module github.com/argoproj/pkg
+module github.com/Eson-Jia/pkg
 
 go 1.14
 
 require (
+	github.com/Eson-Jia/minio-go/v7 v7.0.54
+	github.com/argoproj/pkg v0.13.6
 	github.com/aws/aws-sdk-go v1.44.228
 	github.com/dustin/go-humanize v1.0.1
 	github.com/felixge/httpsnoop v1.0.3
-	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef // indirect
 	github.com/golang/protobuf v1.3.3
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/minio/minio-go/v7 v7.0.50
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.6.1
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/net v0.8.0
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/api v0.17.8
 	k8s.io/apimachinery v0.17.8
 	k8s.io/client-go v0.17.8
